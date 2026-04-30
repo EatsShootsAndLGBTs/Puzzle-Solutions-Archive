@@ -137,7 +137,7 @@ I solved Numble No.1029 with 3 calculations using 4 numbers in 56s
 
 ❌ ❌ ✅ ✅ ✅ ✅ = 105 =(50-2)*2+9
 
-Numbles solved: 7
+Numbles solved: 1032
 
 nurdle.fun/#/numble #Numble #Nurdle
 
