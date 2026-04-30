@@ -132,7 +132,7 @@ I solved Numble No.1025 with 5 calculations using 6 numbers in 1m:10s
 
 ✅ ✅ ✅ ✅ ✅ ✅ = 687 PSg1MCo1LTI1KzQpKigyKzEp
 
-Numbles solved: 3
+Numbles solved: 1028
 
 nurdle.fun/#/numble #Numble #Nurdle
 
