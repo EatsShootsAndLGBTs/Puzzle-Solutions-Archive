@@ -127,7 +127,7 @@ I solved Numble No.1027 with 5 calculations using 6 numbers in 33s
 
 ✅ ✅ ✅ ✅ ✅ ✅ = 774 =(100+6+5)*7-9+6
 
-Numbles solved: 5
+Numbles solved: 1030
 
 nurdle.fun/#/numble #Numble #Nurdle
 
