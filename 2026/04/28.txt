@@ -135,7 +135,7 @@ I solved Numble No.1032 with 3 calculations using 4 numbers in 17s
 
 ❌ ✅ ✅ ❌ ✅ ✅ = 837 =(100-10+3)*9
 
-Numbles solved: 10
+Numbles solved: 1035
 
 nurdle.fun/#/numble #Numble #Nurdle
 
