@@ -128,7 +128,7 @@ I solved Numble No.1028 with 5 calculations using 6 numbers in 1m:3s
 
 ✅ ✅ ✅ ✅ ✅ ✅ = 443 =25*6*3-8+5/5
 
-Numbles solved: 6
+Numbles solved: 1031
 
 nurdle.fun/#/numble #Numble #Nurdle
 
