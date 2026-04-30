@@ -129,7 +129,7 @@ I solved Numble No.1030 with 4 calculations using 5 numbers in 56s
 
 ✅ ✅ ✅ ✅ ❌ ✅ = 496 =(9+7)*(8*4-1)
 
-Numbles solved: 8
+Numbles solved: 1033
 
 nurdle.fun/#/numble #Numble #Nurdle
 
