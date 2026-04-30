@@ -120,7 +120,7 @@ I solved Numble No.1033 with 4 calculations using 5 numbers in 31s
 
 ❌ ✅ ✅ ✅ ✅ ✅ = 992 =(7*7+75)*(5+3)
 
-Numbles solved: 11
+Numbles solved: 1036
 
 nurdle.fun/#/numble #Numble #Nurdle
 
