@@ -127,7 +127,7 @@ I solved Numble No.1031 with 5 calculations using 6 numbers in 34s
 
 ✅ ✅ ✅ ✅ ✅ ✅ = 374 =(50+4)*9-100-8-4
 
-Numbles solved: 9
+Numbles solved: 1034
 
 nurdle.fun/#/numble #Numble #Nurdle
 
