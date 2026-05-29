@@ -52,12 +52,20 @@ Phrazle 385: 1/6
 🟩🟩🟩    🟩🟩🟩🟩🟩    🟩🟩🟩🟩🟩🟩 ONE SMART COOKIE
 #phrazle
 
+Phrazle 386: 1/6
+🟩🟩    🟩🟩    🟩🟩🟩 UP TO PAR
+#phrazle
+
 solitaired.com/phrazle
 
 Cluehurdle 1293: 2/6
 ⬜🟨🟨⬜⬜⬜ RETAIN
 
 🟩🟩🟩🟩🟩🟩 EXCEPT
+#cluehurdle
+
+Cluehurdle 1294: 1/6
+🟩🟩🟩🟩🟩🟩 OVERDO
 #cluehurdle
 
 solitaired.com/cluehurdle
@@ -67,8 +75,14 @@ Word Hurdle 4-letter 3187 3/6 #wordhurdle
 💙💙💙🖤 SEAM
 💙💙💙💙 SEAL
 
-solitaired.com/wordhurdle-4-letter
-Play our other games like Spider, at solitaired.com/spider-solitaire
+Word Hurdle 4-letter 3188 5/6 #wordhurdle
+🖤💛🖤🖤 TEAS
+🖤🖤💛💛 LIRE
+🖤💛💙🖤 DREW
+🖤💙💙💙 OVER
+💙💙💙💙 EVER
+
+https://solitaired.com/wordhurdle-4-letter
 
 Word Hurdle 5-letter 3187 4/6 #wordhurdle
 🖤💛🖤🖤🖤 SLATE
@@ -76,16 +90,25 @@ Word Hurdle 5-letter 3187 4/6 #wordhurdle
 🖤💙💛🖤🖤 ZILCH
 💙💙💙💙💙 VIGIL
 
-solitaired.com/wordhurdle-5-letter
-Play our other games like Solitaire, at solitaired.com/
+Word Hurdle 5-letter 3188 4/6 #wordhurdle
+🖤🖤🖤🖤🖤 SLATE
+🖤🖤🖤🖤🖤 CRONY
+🖤🖤🖤💙💙 HUMID
+💙💙💙💙💙 VIVID
+
+https://solitaired.com/wordhurdle-5-letter
 
 Word Hurdle 3187 3/6 #wordhurdle
 🖤🖤💛💛💛🖤 CARIES
 🖤💙💙💛🖤💛 TRIFLE
 💙💙💙💙💙💙 FRIEND
 
-solitaired.com/wordhurdle
-Play our other games like FreeCell, at solitaired.com/freecell
+Word Hurdle 3188 3/6 #wordhurdle
+💛🖤💛🖤💛🖤 CARIES
+🖤💛💛💛💛🖤 DRENCH
+💙💙💙💙💙💙 RECENT
+
+https://solitaired.com/wordhurdle
 
 #Wurdle No.1244
 5/6 (20 points)
